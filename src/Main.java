@@ -11,7 +11,7 @@ public class Main {
     }
 }
 
-class BankAccount {
+class old_BankAccount {
 
 
     int balance;
@@ -19,7 +19,7 @@ class BankAccount {
     String customerName;
     String customerId;
 
-    BankAccount(String cname, String cid){
+    old_BankAccount(String cname, String cid){
         customerName = cname;
         customerId = cid;
     }
